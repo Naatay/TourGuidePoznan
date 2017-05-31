@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TourGuidePoznan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- retaurants -->
+    <string name="restaurant_1">Restaurant Ratuszova - delightful \n Stary Rynek 55, Poznań 61-772, Poland</string>
+    <string name="restaurant_2">Restaurant Manekin - cheap and good \n ul. Kwiatowa 3, Poznań 61-881, Poland</string>
+    <string name="restaurant_3">Restaurant Muga - delightful \n ul. Boleslawa Krysiewicza 5, Poznań 61-825, Poland</string>
+    <string name="restaurant_7">Restaurant Figaro - delightful \n ul. Ogrodowa 17, Poznań 61-821, Poland</string>
+    <string name="restaurant_5">Restaurant Cucina 88 - delightful \n Wyspiańskiego 26a, Poznań 60-749, Poland</string>
+    <string name="restaurant_4">Restaurant Na Winklu - cheap and good \n Śródka 1, Poznań 61-125, Poland</string>
+    <string name="restaurant_6">Restaurant Fat Bob Burger - cheap and good \n ul.Kramarska 21/2 | Poznan, Poznań 61-765, Poland</string>
+
+    <!--monuments-->
+
+    <string name="monument_1">The Archcathedral Basilica of St. Peter and St. Paul</string>
+    <string name="monument_2">Poznań Town Hall</string>
+    <string name="monument_3">Raczyński Library</string>
+    <string name="monument_4">Imperial Castle</string>
+    <string name="monument_5">Collegium Maius</string>
+    <string name="monument_6">Grand Theatre</string>
+
+
+    <!--with kids-->
+    
+    <string name="with_kids_1">Poznań Zoo</string>
+    <string name="with_kids_2">Twirl Museum</string>
+    <string name="with_kids_3">Gate of Poznań ICHOT</string>
+
+    <!--nature-->
+    <string name="nature_1">Park Citadel</string>
+    <string name="nature_2">Park Sołacki</string>
+    <string name="nature_3">Palmiarnia Poznańska</string>
+    <string name="nature_4">Park Thomas Woodrow Wilson</string>
+</resources>
